@@ -1,0 +1,5 @@
+title: Mon portfolio de data analyste
+remote_theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-remote-theme
