@@ -6,9 +6,9 @@ layout: default
 ---
 
 ### Etude de marché: exportation du poulet biologique à l'international
-Voir le projet [https://github.com/cedizen/etude_marche_internationale_poulet]
+[Voir le projet](https://github.com/cedizen/etude_marche_internationale_poulet)
 
 ### Machine learning: détection automatique des faux billets
-Voir le projet [https://github.com/cedizen/detection_automatique_faux_billets]
+[Voir le projet](https://github.com/cedizen/detection_automatique_faux_billets)
 
 
