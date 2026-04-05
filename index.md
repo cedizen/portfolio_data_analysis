@@ -11,4 +11,4 @@ layout: default
 ### Machine learning: détection automatique des faux billets
 [Voir le projet](https://github.com/cedizen/detection_automatique_faux_billets)
 
-
+### Etude de marché sur l'alimentation mondiale
