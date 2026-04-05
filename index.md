@@ -12,3 +12,4 @@ layout: default
 [Voir le projet](https://github.com/cedizen/detection_automatique_faux_billets)
 
 ### Etude de marché sur l'alimentation mondiale
+[Voir le projet](https://github.com/cedizen/etude_alimentation_mondiale)
