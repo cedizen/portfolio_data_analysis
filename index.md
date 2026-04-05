@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Data Portfolio</title>
+</head>
+<body>
+    <h1>Hello, I'm a Data Analyst</h1>
+    <p>Welcome to my portfolio 🚀</p>
+</body>
+</html>
