@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 <html>
 <head>
     <title>My Data Portfolio</title>
