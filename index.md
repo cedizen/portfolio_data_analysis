@@ -17,11 +17,22 @@ layout: default
 **- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*  
 [Voir le projet](https://github.com/cedizen/etude_marche_internationale_poulet)  
 
+### Etude de marché sur l'accès à l'eau potable dans le monde
+**- Outils:** Tableau Public  
+[Voir le projet](https://github.com/cedizen/etude_access_eau_potable)
+
+### Analyse des ventes d'une librairie en ligne
+**- Objectif: Nettoyer les données, créer un dataset consolidé et présenter des métriques de la partie ventes en ligne pour la librairie
+**- Outils:** Librairies Python comme *Pandas, Matplotlib et tests d'hypothèse*
+[Voir le projet]([https://github.com/cedizen/online_library](https://github.com/cedizen/sales-stock-analysis))
+
+### Optimisation de la gestion des données d'un magasin de vin en ligne
+**- Objectif: Nettoyer les données, calculer des métriques et présenter des métriques pertinents pour le magasin
+**- Outils:** Librairies Python comme *Pandas et Matplotlib*
+[Voir le projet](https://github.com/cedizen/online_library)
+
 ### Etude de marché sur l'alimentation et la sous-nutrition au niveau mondiale
 **- Objectif:** Visualiser différentes métriques autour de la répartition de l'alimentation au niveau mondial  
 **- Outils:** Librairies Python comme *Panda et Matplotlib*  
 [Voir le projet](https://github.com/cedizen/etude_alimentation_mondiale)  
 
-### Etude de marché sur l'accès à l'eau potable dans le monde
-**- Outils:** Tableau Public  
-[Voir le projet](https://github.com/cedizen/etude_access_eau_potable)  
