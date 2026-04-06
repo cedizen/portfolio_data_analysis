@@ -31,13 +31,24 @@ layout: default
 **- Outils:** Logiciel de visualisation graphique comme *Power BI*  
 [Voir le projet](https://github.com/cedizen/project_management)
 
+
 ### Optimisation de la gestion des données d'un magasin de vin en ligne
 **- Objectif:** Nettoyer les données, calculer des métriques et présenter des métriques pertinents pour le magasin  
 **- Outils:** Librairies Python comme *Pandas et Matplotlib*  
 [Voir le projet](https://github.com/cedizen/online_library)
 
+### Créer, gérer et exploiter une base de données immobilière
+**- Objectif:** Gérer une base de données, importation des données et presentation des résultats pertinents pour l'agence immobilière
+**- Outils:** Logiciel de visualisation graphique comme *SQL et outil de gestion de base de données relationnelle*  
+[Voir le projet](https://github.com/cedizen/french-real-estate-market-analysis)
+
 ### Etude de marché sur l'alimentation et la sous-nutrition au niveau mondiale
 **- Objectif:** Visualiser différentes métriques autour de la répartition de l'alimentation au niveau mondial  
 **- Outils:** Librairies Python comme *Panda et Matplotlib*  
-[Voir le projet](https://github.com/cedizen/etude_alimentation_mondiale)  
+[Voir le projet](https://github.com/cedizen/etude_alimentation_mondiale)
+
+### Découverte de l'exploitation d'une base de donnée: de la création à l'exploitation des données
+**- Objectif:** Différentes opérations à réaliser incluant la gestion d'une base de données relationnelle, l'importation et l'exploitation des données
+**- Outils:** Logiciel de visualisation graphique comme *SQL et outil de gestion de base de données relationnelle*  
+[Voir le projet](https://github.com/cedizen/sql_training_project)
 
