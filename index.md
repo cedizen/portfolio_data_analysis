@@ -21,7 +21,7 @@ layout: default
 
 ### Etude de marché sur l'accès à l'eau potable dans le monde
 **- Objectif:** Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur
-**- Outils:** Outils de visualisation graphique et de création de tableaux de bords notamment *Tableau* 
+**- Outils:** Outils de visualisation graphique et de création de tableaux de bords notamment *Tableau*  
 [Voir le projet](https://github.com/cedizen/etude_access_eau_potable)
 
 ### Analyse des ventes d'une librairie en ligne
