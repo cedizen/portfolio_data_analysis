@@ -20,7 +20,8 @@ layout: default
 [Voir le projet](https://github.com/cedizen/etude_marche_internationale_poulet)  
 
 ### Etude de marché sur l'accès à l'eau potable dans le monde
-**- Outils:** Tableau Public  
+**- Objectif:** Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur
+**- Outils:** Outils de visualisation graphique et de création de tableaux de bords notamment *Tableau* 
 [Voir le projet](https://github.com/cedizen/etude_access_eau_potable)
 
 ### Analyse des ventes d'une librairie en ligne
