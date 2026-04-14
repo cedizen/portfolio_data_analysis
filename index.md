@@ -6,10 +6,9 @@ layout: default
 
 ## Projets
 ---
-### Consultant data: Créer votre portfolio de la data
+### [Consultant data: Créer votre portfolio de la data]()
 **- Objectif:** Démontrer par le biais de divers livrables les différentes compétences en tant que consultant data tant sur le plan technique que fonctionnel.  
 **- Outils:** Outils de visualisation graphiques comme *Tableau* et de gestion de projet  
-[Voir les livrables]()
 
 ### [Machine learning: lutter contre le faux-monnayage](https://github.com/cedizen/detection_automatique_faux_billets)  
 **- Objectif:** Détecter les faux billets grâce au machine learning  
