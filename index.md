@@ -55,6 +55,6 @@ layout: default
 [Voir le projet](https://github.com/cedizen/sql_training_project)
 
 ### Analyse de ventes pour un e-commerce
-**- Objectif:** 
-**- Outils:** Excel
+**- Objectif:**  
+**- Outils:** Excel  
 [Voir le projet](https://github.com/cedizen/sql_training_project)
