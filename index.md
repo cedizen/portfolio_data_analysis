@@ -34,7 +34,6 @@ layout: default
 **- Outils:** Logiciel de visualisation graphique comme *Power BI*  
 [Voir le projet](https://github.com/cedizen/project_management)
 
-
 ### Optimisation de la gestion des données d'un magasin de vin en ligne
 **- Objectif:** Nettoyer les données, calculer des métriques et présenter des métriques pertinents pour le magasin  
 **- Outils:** Librairies Python comme *Pandas et Matplotlib*  
