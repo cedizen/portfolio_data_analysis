@@ -46,6 +46,6 @@ layout: default
 **- Objectif:** Différentes opérations à réaliser incluant la gestion d'une base de données relationnelle, l'importation et l'exploitation des données  
 **- Outils:** Logiciel de visualisation graphique comme *SQL et outil de gestion de base de données relationnelle*
 
-### [Analyse de ventes pour un e-commerce](https://github.com/cedizen/sql_training_project](https://github.com/cedizen/sales_analysis_excel)
+### [Analyse de ventes pour un e-commerce](https://github.com/cedizen/sales_analysis_excel)
 **- Objectif:**  Préparer le rapport marketing mensuel  
 **- Outils:** Excel  
