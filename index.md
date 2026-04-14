@@ -27,7 +27,7 @@ layout: default
 ### Analyse des ventes d'une librairie en ligne
 **- Objectif:** Nettoyer les données, créer un dataset consolidé et présenter des métriques de la partie ventes en ligne pour la librairie  
 **- Outils:** Librairies Python comme *Pandas, Matplotlib et tests d'hypothèse*  
-[Voir le projet]([https://github.com/cedizen/online_library](https://github.com/cedizen/sales-stock-analysis))
+[Voir le projet](https://github.com/cedizen/online_library)
 
 ### Tableaux de bord sur de la gestion de projet
 **- Objectif:** Créer un tableau de bord pour suivre divers indicateurs à travers diverses visualisations graphiques (carte, jauge, etc.)  
