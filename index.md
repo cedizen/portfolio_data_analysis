@@ -54,3 +54,7 @@ layout: default
 **- Outils:** Logiciel de visualisation graphique comme *SQL et outil de gestion de base de données relationnelle*  
 [Voir le projet](https://github.com/cedizen/sql_training_project)
 
+### Analyse de ventes pour un e-commerce
+**- Objectif:** 
+**- Outils:** Excel
+[Voir le projet](https://github.com/cedizen/sql_training_project)
