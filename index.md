@@ -6,7 +6,7 @@ layout: default
 ---
 ### Consultant data: Créer votre portfolio de la data
 **- Objectif:** Démontrer par le biais de divers livrables les différentes compétences en tant que consultant data tant sur le plan technique que fonctionnel. 
-**- Outils:** Outils de visualisation graphiques comme *Tableau* et de gestion de projet
+**- Outils:** Outils de visualisation graphiques comme *Tableau* et de gestion de projet  
 [Voir le projet]()
 
 ### Machine learning: lutter contre le faux-monnayage
@@ -50,7 +50,7 @@ layout: default
 [Voir le projet](https://github.com/cedizen/etude_alimentation_mondiale)
 
 ### Découverte de l'exploitation d'une base de donnée: de la création à l'exploitation des données
-**- Objectif:** Différentes opérations à réaliser incluant la gestion d'une base de données relationnelle, l'importation et l'exploitation des données
+**- Objectif:** Différentes opérations à réaliser incluant la gestion d'une base de données relationnelle, l'importation et l'exploitation des données  
 **- Outils:** Logiciel de visualisation graphique comme *SQL et outil de gestion de base de données relationnelle*  
 [Voir le projet](https://github.com/cedizen/sql_training_project)
 
