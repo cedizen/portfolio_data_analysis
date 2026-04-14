@@ -41,7 +41,7 @@ layout: default
 [Voir le projet](https://github.com/cedizen/online_library)
 
 ### Créer, gérer et exploiter une base de données immobilière
-**- Objectif:** Gérer une base de données, importation des données et presentation des résultats pertinents pour l'agence immobilière
+**- Objectif:** Gérer une base de données, importation des données et presentation des résultats pertinents pour l'agence immobilière  
 **- Outils:** Logiciel de visualisation graphique comme *SQL et outil de gestion de base de données relationnelle*  
 [Voir le projet](https://github.com/cedizen/french-real-estate-market-analysis)
 
