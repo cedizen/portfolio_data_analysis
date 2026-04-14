@@ -4,8 +4,10 @@ layout: default
 # Cédric BERTHEZENE - Data analyste - Portfolio
 ## Projets
 ---
-### Consultant data: livraison livrables
-[Voir le projet]
+### Consultant data: Créer votre portfolio de la data
+**- Objectif:** Démontrer par le biais de divers livrables les différentes compétences en tant que consultant data tant sur le plan technique que fonctionnel. 
+**- Outils:** Outils de visualisation graphiques comme *Tableau* et de gestion de projet
+[Voir le projet]()
 
 ### Machine learning: lutter contre le faux-monnayage
 **- Objectif:** Détecter les faux billets grâce au machine learning  
