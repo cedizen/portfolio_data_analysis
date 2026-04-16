@@ -46,6 +46,9 @@ layout: default
 **- Objectif:** Différentes opérations à réaliser incluant la gestion d'une base de données relationnelle, l'importation et l'exploitation des données  
 **- Outils:** Logiciel de visualisation graphique comme *SQL et outil de gestion de base de données relationnelle*
 
-### [Analyse de ventes pour un e-commerce](https://github.com/cedizen/sales_analysis_excel)
-**- Objectif:**  Préparer le rapport marketing mensuel  
+### [Analyse de ventes du site e-commerce pour "Le Grand Marché"](https://github.com/cedizen/sales_analysis_excel)
+**- Objectifs:**  Identifier les causes de la baisse du chiffre d’affaires et comprendre comment la situation devrait évoluer dans les prochains mois.
+et analyser les données des clients affiliés pour en tirer des leviers d’action   
 **- Outils:** Excel  
+
+### [Prenez en main la formation de Data Analyste]()
