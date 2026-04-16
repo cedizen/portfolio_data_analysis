@@ -5,7 +5,7 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/cédric-berthezene-4b248b83)
 [![GitHub](https://img.shields.io/badge/GitHub-Profil-black?logo=github)](https://github.com/cedizen)
 
-## Projets
+## Projets réalisés au cours de ma formation
 ---
 ### [Consultant data: Créer votre portfolio de la data]()
 **- Objectif:** Démontrer par le biais de divers livrables les différentes compétences en tant que consultant data tant sur le plan technique que fonctionnel.  
@@ -56,6 +56,6 @@ layout: default
 et analyser les données des clients affiliés pour en tirer des leviers d’action   
 **- Outils:** Excel  
 
-### [Prise en main la formation de Data Analyste]()
+### [Prise en main du métier de Data Analyste](https://github.com/cedizen/apprehension_metier)
 **- Objectifs:** Comprendre les attendus du métier et s'auto-évaluer objectivement par rapport à un référentiel  
 **- Outils:** Excel  
