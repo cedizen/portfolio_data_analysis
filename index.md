@@ -27,6 +27,10 @@ layout: default
 **- Objectif:** Nettoyer les données, créer un dataset consolidé et présenter des métriques de la partie ventes en ligne pour la librairie  
 **- Outils:** Librairies Python comme *Pandas, Matplotlib et tests d'hypothèse*  
 
+### [Analyse des indicateurs de l'égalité hommes/femmes pour un cabinet de consultants](https://github.com/cedizen/projet_egalite_hommes_femmes)
+**- Objectif:** Réaliser un diagnostic sur l'égalité homme/femmes au sein d'un cabinet de consultants sur basé sur des indicateurs clés en conformité avec le RGPD  
+**- Outils:** KNime  
+
 ### [Tableaux de bord sur de la gestion de projet](https://github.com/cedizen/project_management)
 **- Objectif:** Créer un tableau de bord pour suivre divers indicateurs à travers diverses visualisations graphiques (carte, jauge, etc.)  
 **- Outils:** Logiciel de visualisation graphique comme *Power BI*  
