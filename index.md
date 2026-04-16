@@ -53,5 +53,5 @@ et analyser les données des clients affiliés pour en tirer des leviers d’act
 **- Outils:** Excel  
 
 ### [Prise en main la formation de Data Analyste]()
-**- Objectifs:** Comprendre les attendus du métier et s'auto-évaluer objectivement par rapport à un référentiel
-**- Outils:** Excel
+**- Objectifs:** Comprendre les attendus du métier et s'auto-évaluer objectivement par rapport à un référentiel  
+**- Outils:** Excel  
