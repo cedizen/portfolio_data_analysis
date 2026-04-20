@@ -6,7 +6,7 @@ layout: default
 [![GitHub](https://img.shields.io/badge/GitHub-Profil-black?logo=github)](https://github.com/cedizen)
 
 <nav>
-  - [Accueil](/index.md)
+  - [Accueil](index.md)
   - [Projet principal](projet_principal.md)
   - [Autres projets](autres_projets.md)
 </nav>
