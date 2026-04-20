@@ -1,3 +1,12 @@
+---
+layout: default
+---
+# Cédric BERTHEZENE - Data analyst - Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/cédric-berthezene-4b248b83)
+[![GitHub](https://img.shields.io/badge/GitHub-Profil-black?logo=github)](https://github.com/cedizen)
+---
+[Accueil](/index.md) - [Projet principal](/projet_principal.md) - [Autres projets](/autres_projets.md)
+---
 ## Projets réalisés au cours de ma formation
 ---
 ### [Machine learning: lutter contre le faux-monnayage](https://github.com/cedizen/detection_automatique_faux_billets)  
