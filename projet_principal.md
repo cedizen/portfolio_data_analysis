@@ -12,11 +12,11 @@ layout: default
 
 Démontrer mes compétences de consultant data par une série de livrables au profit du client
 
-### [Veille technologique]()
+### [Veille technologique](https://public.tableau.com/app/profile/cedric.berthezene/viz/veilletechnologique/Veilletechnologique?publish=yes)
 
-### [Profil]()
+### [Profil](https://public.tableau.com/app/profile/cedric.berthezene/viz/profil_17767164585170/Profiletcomptences?publish=yes)
 
-### [Rétroplanning]()
+### [Rétroplanning](https://public.tableau.com/app/profile/cedric.berthezene/viz/gantt_tableau/Gestiondeprojets-mtriques?publish=yes)
 
 ### [Cahier des charges]()
 
