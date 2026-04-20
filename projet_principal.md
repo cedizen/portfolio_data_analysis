@@ -10,10 +10,19 @@ layout: default
 
 ## Projet principal
 
-### Veille technologique 
+### [Veille technologique]()
 
-### Profil
+### [Profil]()
 
-### Rétroplanning
+### [Rétroplanning]()
+
+### [Cahier des charges]()
+
+### [Analyse des besoins client]()
+
+### [Créer son tableau de bord sur Tableau - Vidéo de formation]()
+
+### [Créer et partage ses graphiques sur Tableau - Documentation technique]()
+
 
 
