@@ -18,10 +18,10 @@ Démontrer mes compétences de consultant data par une série de livrables au pr
 
 ### [Rétroplanning](https://public.tableau.com/app/profile/cedric.berthezene/viz/gantt_tableau/Gestiondeprojets-mtriques?publish=yes)
 
-### [Cahier des charges]()
+### [Cahier des charges](/livrables/cahier_des_charges.pdf)
 
-### [Analyse des besoins client]()
+### [Analyse des besoins client](/livrables/analyse_besoins_metier.pdf)
 
 ### [Créer son tableau de bord sur Tableau - Vidéo de formation]()
 
-### [Créer et partage ses graphiques sur Tableau - Documentation technique]()
+### [Créer et partage ses graphiques sur Tableau - Documentation technique](/livrables/Creation_graphiques.pdf)
