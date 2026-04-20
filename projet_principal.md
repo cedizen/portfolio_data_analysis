@@ -13,7 +13,7 @@ layout: default
 Démontrer mes compétences de consultant data par une série de livrables au profit du client
 
 ### [Veille technologique](https://public.tableau.com/app/profile/cedric.berthezene/viz/veilletechnologique/Veilletechnologique?publish=yes)
-![](images/tb_profil.png)
+![](/images/tb_profil.png)
 
 ### [Profil](https://public.tableau.com/app/profile/cedric.berthezene/viz/profil_17767164585170/Profiletcomptences?publish=yes)
 
