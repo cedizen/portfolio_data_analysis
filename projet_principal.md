@@ -10,6 +10,8 @@ layout: default
 
 ## Projet principal
 
+Démontrer mes compétences de consultant data par une série de livrables au profit du client
+
 ### [Veille technologique]()
 
 ### [Profil]()
@@ -23,6 +25,3 @@ layout: default
 ### [Créer son tableau de bord sur Tableau - Vidéo de formation]()
 
 ### [Créer et partage ses graphiques sur Tableau - Documentation technique]()
-
-
-
