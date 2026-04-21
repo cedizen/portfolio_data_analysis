@@ -23,9 +23,9 @@ Démontrer mes compétences de consultant data par une série de livrables au pr
 
 ### [D - Cahier des charges](/livrables/cahier_des_charges.pdf)
 
-### [Analyse des besoins client](/livrables/analyse_besoins_metier.pdf)
+### [E - Analyse des besoins client](/livrables/analyse_besoins_metier.pdf)
 
-### [E - Créer son tableau de bord sur Tableau - Vidéo de formation](https://www.loom.com/share/4541747106a84081adb09ad8c7630f1c)
+### [F - Créer son tableau de bord sur Tableau - Vidéo de formation](https://www.loom.com/share/4541747106a84081adb09ad8c7630f1c)
 ![Video_formation](img/video_formation.png)
 
-### [F - Créer et partage ses graphiques sur Tableau - Documentation technique](/livrables/Creation_graphiques.pdf)
+### [G - Créer et partage ses graphiques sur Tableau - Documentation technique](/livrables/Creation_graphiques.pdf)
