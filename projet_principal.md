@@ -26,6 +26,6 @@ Démontrer mes compétences de consultant data par une série de livrables au pr
 ### [Analyse des besoins client](/livrables/analyse_besoins_metier.pdf)
 
 ### [Créer son tableau de bord sur Tableau - Vidéo de formation](https://www.loom.com/share/4541747106a84081adb09ad8c7630f1c)
-![Video_formation](img/Video_formation.png)
+![Video_formation](img/video_formation.png)
 
 ### [Créer et partage ses graphiques sur Tableau - Documentation technique](/livrables/Creation_graphiques.pdf)
