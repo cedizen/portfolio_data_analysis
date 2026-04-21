@@ -13,16 +13,19 @@ layout: default
 Démontrer mes compétences de consultant data par une série de livrables au profit du client
 
 ### [Veille technologique](https://public.tableau.com/app/profile/cedric.berthezene/viz/veilletechnologique/Veilletechnologique?publish=yes)
-![tb_profil](img/tb_profil.png)
+![tb_profil](img/tb_veille.png)
 
 ### [Profil](https://public.tableau.com/app/profile/cedric.berthezene/viz/profil_17767164585170/Profiletcomptences?publish=yes)
+![tb_profil](img/tb_profil.png)
 
 ### [Rétroplanning](https://public.tableau.com/app/profile/cedric.berthezene/viz/gantt_tableau/Gestiondeprojets-mtriques?publish=yes)
+![tb_planning](img/tb_planning.png)
 
 ### [Cahier des charges](/livrables/cahier_des_charges.pdf)
 
 ### [Analyse des besoins client](/livrables/analyse_besoins_metier.pdf)
 
 ### [Créer son tableau de bord sur Tableau - Vidéo de formation](https://www.loom.com/share/4541747106a84081adb09ad8c7630f1c)
+![Video_formation](img/Video_formation.png)
 
 ### [Créer et partage ses graphiques sur Tableau - Documentation technique](/livrables/Creation_graphiques.pdf)
