@@ -10,7 +10,8 @@ layout: default
 
 ## Projet principal
 
-Démontrer mes compétences de consultant data par une série de livrables au profit du client
+Démontrer mes compétences de chef de projet / expert data à travers une série de livrables (listés ci‑dessous) pour le compte du client Aeroworld.
+Pour accéder au détail de chaque livrable, cliquez sur son titre.
 
 ### [A - Veille technologique](https://public.tableau.com/app/profile/cedric.berthezene/viz/veilletechnologique/Veilletechnologique?publish=yes)
 ![tb_profil](img/tb_veille.png)
