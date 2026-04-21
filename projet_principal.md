@@ -19,7 +19,7 @@ Démontrer mes compétences de consultant data par une série de livrables au pr
 ![tb_profil](img/tb_profil.png)
 
 ### [Rétroplanning](https://public.tableau.com/app/profile/cedric.berthezene/viz/gantt_tableau/Gestiondeprojets-mtriques?publish=yes)
-![tb_planning](img/tb_planning.png)
+![tb_planning](img/retroplanning.png)
 
 ### [Cahier des charges](/livrables/cahier_des_charges.pdf)
 
