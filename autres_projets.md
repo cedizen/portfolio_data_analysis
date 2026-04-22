@@ -18,7 +18,7 @@ layout: default
 **- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*  
 
 ### [Etude de marché sur l'accès à l'eau potable dans le monde](https://github.com/cedizen/etude_access_eau_potable)
-**- ©:** Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur  
+**- Objectifs:** Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur  
 **- Outils:** Outils de visualisation graphique et de création de tableaux de bords notamment *Tableau*  
 
 ### [Analyse des ventes d'une librairie en ligne](https://github.com/cedizen/online_library)
