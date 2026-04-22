@@ -26,7 +26,7 @@ layout: default
 **- Outils:** Librairies Python comme *Pandas, Matplotlib et tests d'hypothèse*
 
 ### [Pens and Writer: analyse des ventes pour le lancement d'une nouvelle gamme de fournitures de bureau](https://github.com/cedizen/pens_and_printer)
-**- Objectifs:** Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.
+**- Objectifs:** Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.  
 **- Outils:** Librairies Python comme *Pandas, Matplotlib et tests d'hypothèse*
 
 ### [Analyse des indicateurs de l'égalité hommes/femmes pour un cabinet de consultants](https://github.com/cedizen/projet_egalite_hommes_femmes)
