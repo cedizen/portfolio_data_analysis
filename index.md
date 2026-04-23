@@ -17,21 +17,21 @@ Vous trouverez sur ce site web :
 ## Derniers projets Python
 
 ### [Machine learning: lutter contre le faux-monnayage](https://github.com/cedizen/detection_automatique_faux_billets)  
-**- Objectif:** Détecter les faux billets grâce au machine learning  
+**- Description:** Détecter les faux billets grâce au machine learning  
 **- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*
 
 ### [Etude de marché: exportation du poulet biologique à l'international](https://github.com/cedizen/etude_marche_internationale_poulet)
-**- Objectifs:** Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants  
+**- Description:** Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants  
 **- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*
 
 ### [Pens and Writer: analyse des ventes pour le lancement d'une nouvelle gamme de fournitures de bureau](https://github.com/cedizen/pens_and_printer)
-**- Objectifs:** Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.  
+**- Description:** Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.  
 **- Outils:** Librairies Python comme *Pandas, Matplotlib et tests d'hypothèse*
 
 ## Derniers projets Tableau
 
 ### [Etude de marché sur l'accès à l'eau potable dans le monde](https://github.com/cedizen/etude_access_eau_potable)
-**- Objectifs:** Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur  
+**- Description:** Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur  
 **- Outils:** Outils de visualisation graphique et de création de tableaux de bords notamment *Tableau*  
 
 
