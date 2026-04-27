@@ -9,9 +9,14 @@ layout: default
   <h1> Cédric BERTHEZENE - Data analyst - Portfolio</h1>
   [![LinkedIn]](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/cédric-berthezene-4b248b83)
   [![GitHub]](https://img.shields.io/badge/GitHub-Profil-black?logo=github)](https://github.com/cedizen)]  
-  
-  [![Accueil](/portfolio_data_analysis)] | [![Projet principal](/projet_principal.md)] | [![Tous les projets](/autres_projets.md)]
-  ---
+
+  <nav>
+    <ul>
+      <li><b><a href="/portfolio_data_analysis">Accueil</a></b></li>
+      <li><a href="/projet_principal.md">Projet Aéroworld</a></li>
+      <li><a href="/autres_projets.md">Tous les projets</a></li>
+    </ul>
+  </nav>
   
   <p>
     Bienvenue sur la page principale de ce portfolio.
