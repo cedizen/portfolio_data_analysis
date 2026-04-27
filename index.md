@@ -7,9 +7,8 @@ layout: default
   </HEAD>
   <BODY>
   <h1> Cédric BERTHEZENE - Data analyst - Portfolio</h1>
-  [![LinkedIn]](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/cédric-berthezene-4b248b83)
-  [![GitHub]](https://img.shields.io/badge/GitHub-Profil-black?logo=github)](https://github.com/cedizen)]  
-
+  <img src="https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/cédric-berthezene-4b248b83" />
+  <img src="https://img.shields.io/badge/GitHub-Profil-black?logo=github)](https://github.com/cedizen" />
   <nav>
     <ul>
       <li><b><a href="/portfolio_data_analysis">Accueil</a></b></li>
