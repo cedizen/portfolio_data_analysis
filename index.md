@@ -37,13 +37,13 @@ layout: default
     <li>Pandas</li>
     <li>Matplotlib</li>
   </ul>
-  <a href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
+  <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
   
   <h3>Etude de marché: exportation du poulet biologique à l'international</h3>
   <p>Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants</p>
   <p>Outils: </p>
   <ul>
-    <li>Scikit-learn
+    <li>Scikit-learn</li>
     <li>PCA</li>
     <li>Pandas</li>
     <li>Matplotlib</li>
