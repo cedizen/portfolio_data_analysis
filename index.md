@@ -16,10 +16,14 @@ Vous trouverez sur ce site web :
 ---
 ## Derniers projets Python
 
-### Machine learning: lutter contre le faux-monnayage  
-**- Description:** Détecter les faux billets grâce au machine learning  
-**- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*    
-[![Voir projet](https://img.shields.io/badge/Voir%20projet-GitHub-181717?style=for-the-badge)](https://github.com/cedizen/detection_automatique_faux_billets)]
+### Machine learning: lutter contre le faux-monnayage
+<ul>
+  <li><b>Description:</b> Détecter les faux billets grâce au machine learning</li>
+  <li><b>Outils:</b> librairies Python comme <i>Scikit-learn, PCA, Pandas et Matplotlib</i></li>
+</ul>
+<button onclick="https://github.com/cedizen/detection_automatique_faux_billets">
+  Voir projet
+</button>
 
 ### Etude de marché: exportation du poulet biologique à l'international
 **- Description:** Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants  
