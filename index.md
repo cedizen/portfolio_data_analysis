@@ -28,7 +28,7 @@ Vous trouverez sur ce site web :
 </ul>
 <a class="button" href="https://github.com/cedizen/detection_automatique_faux_billets">
   Voir projet
-</button>
+</a>
 
 ### Etude de marché: exportation du poulet biologique à l'international
 **- Description:** Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants  
