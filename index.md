@@ -26,8 +26,8 @@ Vous trouverez sur ce site web :
   <li><b>Description:</b> Détecter les faux billets grâce au machine learning</li>
   <li><b>Outils:</b> librairies Python comme <i>Scikit-learn, PCA, Pandas et Matplotlib</i></li>
 </ul>
-<a class="button" href="https://github.com/cedizen/detection_automatique_faux_billets">
-  Voir projet
+<a href="https://github.com/cedizen/detection_automatique_faux_billets">
+  <button>Voir projet</button>
 </a>
 
 ### Etude de marché: exportation du poulet biologique à l'international
