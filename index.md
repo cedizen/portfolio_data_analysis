@@ -37,9 +37,7 @@ layout: default
     <li>Pandas</li>
     <li>Matplotlib</li>
   </ul>
-  <button>
-    <a href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
-  </button>
+  <a href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
   
   <h3>Etude de marché: exportation du poulet biologique à l'international</h3>
   <p>Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants</p>
@@ -50,9 +48,7 @@ layout: default
     <li>Pandas</li>
     <li>Matplotlib</li>
   </ul>
-  <button>
-    <a href="https://github.com/cedizen/etude_marche_internationale_poulet">Voir projet</a>
-  </button>
+  <a class="btn_project" href="https://github.com/cedizen/etude_marche_internationale_poulet">Voir projet</a>
   
   <h3>Pens and Writer: analyse des ventes pour le lancement d'une nouvelle gamme de fournitures de bureau</h3>
   <p>Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.</p>
@@ -62,9 +58,7 @@ layout: default
     <li>Matplotlib</li>
     <li>Librairies de tests d'hypothèses</li>
   </ul>
-  <button>
-    <a href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
-  </button>
+  <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
 
   <hr />
   <h2>Derniers projets Tableau</h2>
@@ -75,9 +69,7 @@ layout: default
   <ul>
     <li>Tableau</li>
   </ul>
-  <button>
-    <a href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
-  </button>
+  <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
 </BODY>
 </HTML>
 
