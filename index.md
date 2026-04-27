@@ -59,12 +59,19 @@ layout: default
   <button>
     <a href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
   </button>
+
+  <hr />
+  <h2>Derniers projets Tableau</h2>
   
-  ## Derniers projets Tableau
-  
-  ### [Etude de marché sur l'accès à l'eau potable dans le monde](https://github.com/cedizen/etude_access_eau_potable)
-  **- Description:** Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur  
-  **- Outils:** Outils de visualisation graphique et de création de tableaux de bords notamment *Tableau*  
+  <h3>[Etude de marché sur l'accès à l'eau potable dans le monde](https://github.com/cedizen/etude_access_eau_potable)</h3>
+  <p>Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur</p>
+  <p>Outils</p>
+  <ul>
+    <li>Tableau</li>
+  </ul>
+  <button>
+    <a href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
+  </button>
 </BODY>
 </HTML>
 
