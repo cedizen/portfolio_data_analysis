@@ -11,3 +11,18 @@ nav ul li a{
   text-decoration: none;
   padding: 5px 10px;
 }
+
+.btn_project{
+  display: inline-block;
+  padding: 10px 20px;
+  background: linear-gradient(145deg, #0366d6, #0052cc);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  border: none;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 2px 8px rgba(3, 102, 214, 0.3);
+  transition: all 0.2s ease-in-out;
+}
