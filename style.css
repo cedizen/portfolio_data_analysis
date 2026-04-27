@@ -44,7 +44,7 @@ nav ul li a{
   text-align: right;
 }
 
-.btn:hover {
+.btn_project:hover {
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(3, 102, 214, 0.4);
   background: linear-gradient(145deg, #0059b3, #004499);
