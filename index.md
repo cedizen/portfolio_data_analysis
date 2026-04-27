@@ -25,19 +25,22 @@ layout: default
   <h2>Derniers projets Python</h2>
   
   <h3>Machine learning: lutter contre le faux-monnayage</h3>
+  <p>Détecter les faux billets grâce au machine learning</p>
   <ul>
-    <li><b>Description:</b> Détecter les faux billets grâce au machine learning</li>
-    <li><b>Outils:</b> librairies Python comme <i>Scikit-learn, PCA, Pandas et Matplotlib</i></li>
+    Outils
+    <li>Scikit-learn</li>
+    <li>PCA</li>
+    <li>Pandas</li>
+    <li>Matplotlib</li>
   </ul>
   <button>
     <a href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
   </button>
   
   <h3>Etude de marché: exportation du poulet biologique à l'international</h3>
-  <p>Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants
-  Outils: 
-  </p>
+  <p>Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants</p>
   <ul>
+    Outils: 
     <li>Scikit-learn
     <li>PCA</li>
     <li>Pandas</li>
@@ -48,10 +51,9 @@ layout: default
   </button>
   
   <h3>Pens and Writer: analyse des ventes pour le lancement d'une nouvelle gamme de fournitures de bureau</h3>
-  <p>Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.
-  Outils:
-  </p> 
+  <p>Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.</p> 
   <ul>
+    Outils:
     <li>Pandas</li>
     <li>Matplotlib</li>
     <li>Librairies de tests d'hypothèses</li>
