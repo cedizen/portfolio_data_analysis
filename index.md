@@ -25,51 +25,53 @@ layout: default
     <li>Divers projets réalisés dans le cadre de ma formation de data analyst, illustrant l’apprentissage et la mise en application de technologies telles que <b>SQL, Python (notamment Pandas et NumPy), ainsi que des outils de visualisation de données comme Tableau ou Power BI</b>, pour le compte de plusieurs clients</li>
   </ul>
   
-  <hr />
-  <h2>Derniers projets Python</h2>
-  
-  <h3>Machine learning: lutter contre le faux-monnayage</h3>
-  <p>Détecter les faux billets grâce au machine learning</p>
-  <p>Outils: </p>
-  <ul>
-    <li>Scikit-learn</li>
-    <li>PCA</li>
-    <li>Pandas</li>
-    <li>Matplotlib</li>
-  </ul>
-  <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
-  
-  <h3>Etude de marché: exportation du poulet biologique à l'international</h3>
-  <p>Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants</p>
-  <p>Outils: </p>
-  <ul>
-    <li>Scikit-learn</li>
-    <li>PCA</li>
-    <li>Pandas</li>
-    <li>Matplotlib</li>
-  </ul>
-  <a class="btn_project" href="https://github.com/cedizen/etude_marche_internationale_poulet">Voir projet</a>
-  
-  <h3>Pens and Writer: analyse des ventes pour le lancement d'une nouvelle gamme de fournitures de bureau</h3>
-  <p>Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.</p>
-  <p>Outils:</p>
-  <ul>
-    <li>Pandas</li>
-    <li>Matplotlib</li>
-    <li>Librairies de tests d'hypothèses</li>
-  </ul>
-  <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
+  <div class="block">
+    <h2>Derniers projets Python</h2>
+    
+    <h3>Machine learning: lutter contre le faux-monnayage</h3>
+    <p>Détecter les faux billets grâce au machine learning</p>
+    <p>Outils: </p>
+    <ul>
+      <li>Scikit-learn</li>
+      <li>PCA</li>
+      <li>Pandas</li>
+      <li>Matplotlib</li>
+    </ul>
+    <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
+    
+    <h3>Etude de marché: exportation du poulet biologique à l'international</h3>
+    <p>Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants</p>
+    <p>Outils: </p>
+    <ul>
+      <li>Scikit-learn</li>
+      <li>PCA</li>
+      <li>Pandas</li>
+      <li>Matplotlib</li>
+    </ul>
+    <a class="btn_project" href="https://github.com/cedizen/etude_marche_internationale_poulet">Voir projet</a>
+    
+    <h3>Pens and Writer: analyse des ventes pour le lancement d'une nouvelle gamme de fournitures de bureau</h3>
+    <p>Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.</p>
+    <p>Outils:</p>
+    <ul>
+      <li>Pandas</li>
+      <li>Matplotlib</li>
+      <li>Librairies de tests d'hypothèses</li>
+    </ul>
+    <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
 
-  <hr />
-  <h2>Derniers projets Tableau</h2>
-  
-  <h3>[Etude de marché sur l'accès à l'eau potable dans le monde](https://github.com/cedizen/etude_access_eau_potable)</h3>
-  <p>Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur</p>
-  <p>Outils:</p>
-  <ul>
-    <li>Tableau</li>
-  </ul>
-  <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
+  </div>
+  <div class="block">
+    <h2>Derniers projets Tableau</h2>
+    
+    <h3>[Etude de marché sur l'accès à l'eau potable dans le monde](https://github.com/cedizen/etude_access_eau_potable)</h3>
+    <p>Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur</p>
+    <p>Outils:</p>
+    <ul>
+      <li>Tableau</li>
+    </ul>
+    <a class="btn_project" href="https://github.com/cedizen/detection_automatique_faux_billets">Voir projet</a>
+  </div>
 </BODY>
 </HTML>
 
