@@ -27,6 +27,7 @@ nav ul li a{
 
 nav ul li a:hover{
   background: linear-gradient(145deg, #0059b3, #004499);
+  color:white;
 }
 
 
