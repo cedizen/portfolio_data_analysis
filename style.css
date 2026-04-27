@@ -43,7 +43,7 @@ nav ul li a{
   font-weight: 500;
   box-shadow: 0 1px 3px rgba(3, 102, 214, 0.15);
   transition: background 0.2s ease-in-out, border-color 0.2s ease-in-out;
-  float: right;
+  margin-right: 0;
 }
 
 .btn_project:hover {
