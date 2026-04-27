@@ -1,6 +1,3 @@
----
-layout: default
----
 <HTML>
   <HEAD>
     <link rel="stylesheet" href="style.css" />
