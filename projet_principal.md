@@ -9,8 +9,8 @@
   <nav>
     <ul>
       <li><b><a href="/portfolio_data_analysis">Accueil</a></b></li>
-      <li><a href="/projet_principal.md">Projet Aéroworld</a></li>
-      <li><a href="/autres_projets.md">Tous les projets</a></li>
+      <li><a href="/portfolio_data_analysis/projet_principal.md">Projet Aéroworld</a></li>
+      <li><a href="/portfolio_data_analysis/autres_projets.md">Tous les projets</a></li>
     </ul>
   </nav>
 
