@@ -18,17 +18,17 @@ Vous trouverez sur ce site web :
 
 ### Machine learning: lutter contre le faux-monnayage  
 **- Description:** Détecter les faux billets grâce au machine learning  
-**- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*  
+**- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*    
 [![Voir projet](https://img.shields.io/badge/Voir%20projet-GitHub-181717?style=for-the-badge)](https://github.com/cedizen/detection_automatique_faux_billets)]
 
 ### Etude de marché: exportation du poulet biologique à l'international
 **- Description:** Trouver le ou les pays à cibler grâce au machine learning et à la réduction des composants  
-**- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*
+**- Outils:** librairies Python comme *Scikit-learn, PCA, Pandas et Matplotlib*    
 [![Voir projet](https://img.shields.io/badge/Voir%20projet-GitHub-181717?style=for-the-badge)](https://github.com/cedizen/etude_marche_internationale_poulet)]
 
 ### Pens and Writer: analyse des ventes pour le lancement d'une nouvelle gamme de fournitures de bureau
 **- Description:** Récupérer 6 semaines de données de ventes pour mesurer l’efficacité de chaque technique de vente, puis identifier la plus optimale après analyse.  
-**- Outils:** Librairies Python comme *Pandas, Matplotlib et tests d'hypothèse*  
+**- Outils:** Librairies Python comme *Pandas, Matplotlib et tests d'hypothèse*    
 [![Voir projet](https://img.shields.io/badge/Voir%20projet-GitHub-181717?style=for-the-badge)](https://github.com/cedizen/pens_and_printer)]
 
 ## Derniers projets Tableau
