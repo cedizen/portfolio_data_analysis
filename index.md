@@ -5,7 +5,7 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/cédric-berthezene-4b248b83)
 [![GitHub](https://img.shields.io/badge/GitHub-Profil-black?logo=github)](https://github.com/cedizen)  
 
-[![Accueil](/portfolio_data_analysis) | [![Projet principal](/projet_principal.md) | [![Tous les projets](/autres_projets.md)
+[![Accueil](/portfolio_data_analysis)] | [![Projet principal](/projet_principal.md)] | [![Tous les projets](/autres_projets.md)]
 ---
 
 Bienvenue sur la page principale de ce portfolio.
