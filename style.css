@@ -1,6 +1,7 @@
 nav ul{
   list-style:none;
   align-items: center;
+  display: inline;
 }
 
 nav ul li a{
