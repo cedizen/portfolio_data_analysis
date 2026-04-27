@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<HTML>
+  <HEAD>
+    <link rel="stylesheet" href="style.css" />
+  </HEAD>
+  <BODY>
 # Cédric BERTHEZENE - Data analyst - Portfolio
 [![LinkedIn]](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/cédric-berthezene-4b248b83)
 [![GitHub]](https://img.shields.io/badge/GitHub-Profil-black?logo=github)](https://github.com/cedizen)]  
@@ -21,7 +26,7 @@ Vous trouverez sur ce site web :
   <li><b>Description:</b> Détecter les faux billets grâce au machine learning</li>
   <li><b>Outils:</b> librairies Python comme <i>Scikit-learn, PCA, Pandas et Matplotlib</i></li>
 </ul>
-<button onclick="https://github.com/cedizen/detection_automatique_faux_billets">
+<a class="button" href="https://github.com/cedizen/detection_automatique_faux_billets">
   Voir projet
 </button>
 
@@ -40,6 +45,8 @@ Vous trouverez sur ce site web :
 ### [Etude de marché sur l'accès à l'eau potable dans le monde](https://github.com/cedizen/etude_access_eau_potable)
 **- Description:** Créer différents tableaux de bord qui permettent d'identifier les pays qui ont des difficultés d'accès à l'eau et identifier ceux sur lesquels nous concentrer notre expertise dans le futur  
 **- Outils:** Outils de visualisation graphique et de création de tableaux de bords notamment *Tableau*  
+</BODY>
+</HTML>
 
 
 
