@@ -95,3 +95,7 @@ nav ul li a:hover{
   border-top: 2px solid #e1e4e8;
   border-bottom: 2px solid #e1e4e8;
 }
+
+footer{
+  text-align: center;
+}
