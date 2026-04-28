@@ -31,7 +31,7 @@ nav ul li a{
   color: #0366d6;
 }
 
-nav ul li a:hover{
+nav ul li a:hover, .nav_active{
   background: linear-gradient(145deg, #0059b3, #004499);
   color:white;
 }
