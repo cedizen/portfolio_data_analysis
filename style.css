@@ -73,3 +73,9 @@ nav ul li a:hover{
   max-width: 100%;
   display: block;
 }
+
+.block-title-page{
+  padding: 10px 0;
+  border-top: 2px solid #e1e4e8;
+  border-bottom: 2px solid #e1e4e8;
+}
