@@ -55,7 +55,7 @@ nav ul li a:hover{
 
 .btn_project:hover {
   background: linear-gradient(145deg, #0059b3, #004499);
-  text-color: white;
+  color: white;
 }
 
 .block{
