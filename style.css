@@ -28,11 +28,12 @@ nav ul li a{
   padding: 5px 10px;
   border: 1px solid;
   background: #f1f8ff;
+  color: #0366d6;
 }
 
 nav ul li a:hover{
   background: linear-gradient(145deg, #0059b3, #004499);
-  text-color:white;
+  color:white;
 }
 
 .block_btn_project{
