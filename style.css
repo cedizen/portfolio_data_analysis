@@ -66,7 +66,7 @@ nav ul li a:hover{
   line-height: 1.5;
 }
 
-.block ul li a{
+.block ul li{
   display: block;
   padding: 10px 5px;
   border: 1px solid;
