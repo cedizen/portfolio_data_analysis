@@ -67,7 +67,6 @@ nav ul li a:hover{
 }
 
 .block ul li{
-  display: block;
   padding: 10px 5px;
   border: 1px solid;
   border-radius: 8px;
